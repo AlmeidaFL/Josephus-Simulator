@@ -1,4 +1,14 @@
+<<<<<<< Updated upstream:Data/JosephusSimulation.java
 package Model;
+=======
+package Application;
+
+import Data.*;
+import Gui.*;
+import Gui.Panel.RoundedPanel;
+
+import java.awt.*;
+>>>>>>> Stashed changes:Application/JosephusSimulation.java
 
 public class JosephusSimulation{
 

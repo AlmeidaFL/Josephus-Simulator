@@ -1,8 +1,14 @@
-package Gui;
+package Gui.Panel;
 
 import javax.swing.JPanel;
+<<<<<<< Updated upstream:Gui/PanelMenu.java
+=======
+
+import Gui.GuiUtils;
+>>>>>>> Stashed changes:Gui/Panel/PanelMenu.java
 import java.awt.*;
 import javax.swing.*;
+import Gui.Panel.Events.*;
 
 public class PanelMenu extends JPanel{
 

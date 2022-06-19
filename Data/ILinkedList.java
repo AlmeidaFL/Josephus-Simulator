@@ -1,4 +1,4 @@
-package Model;
+package Data;
 
 public interface IListaLigada{
     public boolean estaVazia(); 

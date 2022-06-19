@@ -1,6 +1,13 @@
-package Gui;
+package Gui.Panel;
 
 import javax.swing.*;
+<<<<<<< Updated upstream:Gui/PanelCircle.java
+=======
+
+import Data.ILinkedList;
+import Gui.GuiUtils;
+
+>>>>>>> Stashed changes:Gui/Panel/PanelCircle.java
 import java.awt.*;
 
 public class PanelCircle extends JPanel{
