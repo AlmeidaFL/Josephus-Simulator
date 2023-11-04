@@ -1,4 +1,4 @@
-package Gui.Panel;
+package src.Gui.Panel;
 
 /**Class that works with status of the buttons of menu, like 'START' and 'STOP'. 
  * @author: Luis Felipe A. B. Matos

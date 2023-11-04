@@ -1,8 +1,8 @@
-package Application;
+package src.Application;
 
-import Application.Events.MenuEvent;
-import Data.*;
-import Gui.Window;
+import src.Application.Events.MenuEvent;
+import src.Data.*;
+import src.Gui.Window;
 
 public class Start {
 

@@ -1,7 +1,8 @@
-package Gui.Panel;
+package src.Gui.Panel;
 
 import javax.swing.JPanel;
-import Gui.GuiUtils;
+import src.Gui.GuiUtils;
+
 import java.awt.*;
 import javax.swing.*;
 
@@ -59,12 +60,12 @@ public class PanelMenu extends JPanel{
       jbtnStop = new JButton("Stop");
       GuiUtils.setButton(jbtnStop);
       jsliderCircles = new JSlider(JSlider.HORIZONTAL, 2, 30, 5);
-      GuiUtils.setSliderHorizontal(jsliderCircles, "Amount Circles");
+      GuiUtils.setSliderHorizontal(jsliderCircles, "Amount of people");
       jsliderSteps = new JSlider(JSlider.HORIZONTAL, 1, 50, 3);
       GuiUtils.setSliderHorizontal(jsliderSteps, " Steps ");
       jsliderDelay = new JSlider(JSlider.HORIZONTAL, 1, 11, 3);
 
-      GuiUtils.setSliderHorizontal(jsliderDelay, " Delay ");
+      GuiUtils.setSliderHorizontal(jsliderDelay, " Speed ");
 
       rpnlMenu.add(jbtnStart);
       rpnlMenu.add(jbtnStop);

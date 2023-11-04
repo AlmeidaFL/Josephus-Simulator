@@ -1,4 +1,5 @@
-import Application.Start;
+package src;
+import src.Application.Start;
 
 public class App{
 

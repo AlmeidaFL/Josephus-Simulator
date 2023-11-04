@@ -1,11 +1,11 @@
-package Gui;
+package src.Gui;
 import java.awt.*;
 
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.border.*;
 
-import Gui.Panel.RoundedPanel;
+import src.Gui.Panel.RoundedPanel;
 
 import javax.swing.*;
 

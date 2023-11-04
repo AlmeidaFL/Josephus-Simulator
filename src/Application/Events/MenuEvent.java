@@ -1,14 +1,14 @@
-package Application.Events;
+package src.Application.Events;
 import java.awt.Component;
 import java.awt.event.*;
 
-import Gui.Panel.PanelMenu;
+import src.Application.JosephusSimulation;
+import src.Data.ILinkedList;
+import src.Data.Person;
+import src.Gui.Panel.*;
+
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
-import Application.JosephusSimulation;
-import Data.ILinkedList;
-import Gui.Panel.*;
-import Data.Person;
 
 public class MenuEvent{
 

@@ -1,4 +1,4 @@
-package Data;
+package src.Data;
 
 public interface ILinkedList{
     public boolean estaVazia(); 

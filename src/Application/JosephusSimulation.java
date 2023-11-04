@@ -1,9 +1,10 @@
-package Application;
+package src.Application;
 
-import Gui.Panel.PanelMenu;
-import Gui.Panel.RoundedPanel;
 import java.awt.*;
-import Data.*;
+
+import src.Data.*;
+import src.Gui.Panel.PanelMenu;
+import src.Gui.Panel.RoundedPanel;
 
 /**
  * Class that works with Josephus Algorithm and its variables states within them whole application.
