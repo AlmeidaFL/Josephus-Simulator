@@ -11,6 +11,11 @@ And we have **Start** and **Stop** button
 
 ![Program initial screen](images/initial-screen.png)
 
-## Disclameir
+## Pre-requisites
+Java SE 17 >=
 
+## How to download
+Follow the prerequistes, download `Josephus.jar` and execute it
+
+## Disclameir
 It's known that the program has some issues and we have no pretension to adjust
